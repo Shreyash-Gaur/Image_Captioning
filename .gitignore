@@ -1,0 +1,11 @@
+model.h5
+checkpoints
+coco2017\annotations
+coco2017\test2017
+coco2017\train2017
+coco2017\val2017
+coco2017/annotations
+coco2017/test2017
+coco2017/train2017
+coco2017/val2017
+vocab_coco.file
